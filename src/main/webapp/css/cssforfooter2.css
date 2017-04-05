@@ -1,0 +1,16 @@
+html {
+    max-width: 1000px;
+    padding-left: 40px;
+}
+
+.fot {
+    width: 1000px;
+    height: 40px;
+
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    background-image: url("../images/btn_bg.png");
+    background-repeat: repeat;
+    margin-top: 50px;
+}

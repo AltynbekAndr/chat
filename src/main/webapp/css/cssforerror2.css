@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    max-width: 1280px;
+    max-height: 900px;
+}
+
+body {
+    background: black;
+}
+
+h1 {
+    color: #2C2C07;
+    font-family: serif;
+    font-size: 50px;
+
+}
+
+.mydiv {
+    width: 600px;
+    height: 350px;
+    background: white;
+    text-align: center;
+    margin-left: 340px;
+    margin-top: 100px;
+    padding-top: 50px;
+
+}

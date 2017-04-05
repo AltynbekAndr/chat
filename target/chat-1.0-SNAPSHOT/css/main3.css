@@ -1,0 +1,68 @@
+html {
+    max-width: 1000px;
+
+}
+
+.container {
+    width: 1050px;
+
+    padding-left: 50px;
+    background: #170d0d;
+
+}
+
+.sertificate {
+    width: 200px;
+    height: 300px;
+    margin-top: -200px;
+    border-radius: 35px;
+
+    box-shadow: 5px 5px black;
+    background: #DEB663;
+
+}
+
+.mycontainerr {
+    width: 500px;
+    position: relative;
+    margin-top: -290px;
+    margin-left: 250px;
+}
+
+.container2 {
+    font-weight: 900;
+    color: #a7a4a4;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    box-shadow: 5px 5px #665d48;
+    margin: 4px;
+}
+
+h6 {
+    font-size: 20px;
+    text-shadow: 1px 1px black;
+    text-decoration: underline;
+}
+
+p {
+
+    color: #C39B48;
+
+}
+
+.submit {
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: sans-serif;
+    color: #165831;
+    border-radius: 10px;
+    background: #1C1E1B;
+    border: 1px solid;
+
+}

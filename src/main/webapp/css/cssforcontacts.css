@@ -1,0 +1,25 @@
+html {
+    max-width: 1000px;
+
+}
+
+.container {
+    width: 1050px;
+    padding-left: 50px;
+    background: #170d0d;
+
+}
+
+h6 {
+    font-size: 20px;
+    text-shadow: 1px 1px black;
+    text-decoration: underline;
+}
+
+p {
+    max-width: 750px;
+    margin-top: -150px;
+    color: #e5dae6;
+    margin-bottom: 200px;
+
+}

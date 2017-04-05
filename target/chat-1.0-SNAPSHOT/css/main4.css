@@ -1,0 +1,46 @@
+html {
+    max-width: 1000px;
+
+}
+
+.forma {
+    position: absolute;
+    width: 192px;
+    height: 300px;
+    margin-left: 780px;
+    margin-top: 10px;
+    border-radius: 15px;
+    padding: 5px;
+    background: #165831;
+    box-shadow: 1px 1px black;
+    text-align: center;
+}
+
+#text {
+    width: 190px;
+    max-width: 190px;
+    min-width: 190px;
+    height: 200px;
+    max-height: 200px;
+    min-height: 200px;
+    border-radius: 15px;
+    background: rgba(213, 218, 218, 0.94);
+    margin-bottom: 10px;
+    padding: 5px;
+
+}
+
+#name {
+    width: 190px;
+    border-radius: 10px;
+    background: rgba(213, 218, 218, 0.94);
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#submit {
+    width: 100px;
+    border-radius: 5px;
+    background: rgba(213, 218, 218, 0.94);
+    margin-bottom: 10px;
+}

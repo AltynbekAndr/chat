@@ -1,0 +1,44 @@
+html {
+    max-width: 1000px;
+
+}
+
+.container {
+    width: 1050px;
+    padding-left: 50px;
+    background: #170d0d;
+
+}
+
+h6 {
+    font-size: 20px;
+    text-shadow: 1px 1px black;
+    text-decoration: underline;
+}
+
+p {
+
+    color: #252e1c;
+
+}
+
+.result {
+    margin-top: -200px;
+    margin-bottom: 15px;
+    font-size: 25px;
+    color: white;
+    margin-left: 5px;
+
+}
+
+.myimage {
+    max-width: 700px;
+    margin-bottom: 20px;
+
+}
+
+.result2 {
+    max-width: 750px;
+    color: white;
+    margin-right: 55px;
+}

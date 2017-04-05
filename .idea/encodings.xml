@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/plan/controller/GlavContr.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/plan/controller/HelloController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/plan/rest/MessageController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/cssforanalitic.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/cssforcontacts.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/cssforfooter2.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/cssfortehnic.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/cssfortploshadla.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/main.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/main2.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/main3.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/main4.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/main5.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/Main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/Main2.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/jquery-3.0.0.min.js" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
