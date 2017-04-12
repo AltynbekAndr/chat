@@ -731,6 +731,7 @@
       <workItem from="1490869551820" duration="149000" />
       <workItem from="1491826716664" duration="258000" />
       <workItem from="1491921083301" duration="421000" />
+      <workItem from="1492025046319" duration="283000" />
     </task>
     <task id="LOCAL-00001" summary="comit sdelan">
       <created>1473699180599</created>
@@ -778,7 +779,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285948000" />
+    <option name="totallyTimeSpent" value="286231000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1237,21 +1238,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14630681" vertical-offset="611" max-vertical-offset="2193">
-          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.31746033" vertical-offset="866" max-vertical-offset="2193">
+          <caret line="58" column="46" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/plan/rest/MessageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58219177" vertical-offset="0" max-vertical-offset="730">
-          <caret line="216" column="44" selection-start-line="216" selection-start-column="44" selection-end-line="216" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.11643836" vertical-offset="306" max-vertical-offset="1088">
+          <caret line="214" column="34" selection-start-line="214" selection-start-column="29" selection-end-line="214" selection-end-column="34" />
           <folding>
             <element signature="method#uploadFile1#0;class#MessageController#0" expanded="false" />
             <element signature="method#uploadFile2#0;class#MessageController#0" expanded="false" />
             <element signature="method#uploadFile3#0;class#MessageController#0" expanded="false" />
-            <element signature="method#filee#0;class#MessageController#0" expanded="false" />
           </folding>
         </state>
       </provider>

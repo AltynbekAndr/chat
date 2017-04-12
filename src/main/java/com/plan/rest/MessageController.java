@@ -230,7 +230,7 @@ public class MessageController {
                     dir.mkdirs();
                 }
 
-                File uploadedFile = new File(dir.getAbsolutePath() + File.separator + "2.jpg");
+                File uploadedFile = new File(dir.getAbsolutePath() + File.separator + "2.mp4");
 
                 BufferedOutputStream stream = new BufferedOutputStream(new FileOutputStream(uploadedFile));
                 stream.write(bytes);
