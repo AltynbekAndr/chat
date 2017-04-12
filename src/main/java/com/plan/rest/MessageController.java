@@ -211,4 +211,40 @@ public class MessageController {
         }
     }
 
+
+    @RequestMapping(value = "filee", method = RequestMethod.POST)
+    @ResponseBody
+    public String filee(@RequestParam("file") MultipartFile file) {
+        String name = null;
+
+        if (!file.isEmpty()) {
+            try {
+                byte[] bytes = file.getBytes();
+
+                name = file.getOriginalFilename();
+
+                String rootPath = "path\\";  //try also "C:\path\"
+                File dir = new File(rootPath + File.separator + "loadFiles");
+
+                if (!dir.exists()) {
+                    dir.mkdirs();
+                }
+
+                File uploadedFile = new File(dir.getAbsolutePath() + File.separator + "2.jpg");
+
+                BufferedOutputStream stream = new BufferedOutputStream(new FileOutputStream(uploadedFile));
+                stream.write(bytes);
+                stream.flush();
+                stream.close();
+
+
+                return "STAT'YA " + name + "USPESHNO OPUBLIKOVAN :-)))))";
+
+            } catch (Exception e) {
+                return "OSHIBKA ZAGRUZKI FOTO :-(((((((((((" + name + " => " + e.getMessage();
+            }
+        } else {
+            return "FAIL NE ZAGRUJEN" + name + "ON NE DOLJNO BYT' PUSTYM!!!!!!!!! ";
+        }
+    }
 }
